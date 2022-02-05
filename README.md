@@ -1,1 +1,2 @@
 # SQLCovidProject
+In this project I downloaded a kaggle dataset of updated Covid 19 infection and death statistics and ran several queries to find rates in countries around the world. After I cleaned the data, and completed all the queries I needed I ran each one individually and copied the results into a excel file to upload into Tableau to create a visualization. The visualization can be seen at https://public.tableau.com/app/profile/ashtin4783/viz/CovidDashboard_16431362562810/Dashboard1.
